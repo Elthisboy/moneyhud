@@ -1,0 +1,17 @@
+{
+  "moneyhud.hud.label": "Geld",
+
+  "moneyhud.command.on":               "[MoneyHUD] HUD aktiviert.",
+  "moneyhud.command.off":              "[MoneyHUD] HUD deaktiviert.",
+  "moneyhud.command.toggle.on":        "[MoneyHUD] HUD auf AKTIVIERT umgeschaltet.",
+  "moneyhud.command.toggle.off":       "[MoneyHUD] HUD auf DEAKTIVIERT umgeschaltet.",
+  "moneyhud.command.tier.1":           "[MoneyHUD] Stil auf Stufe 1 (Einfach) gesetzt.",
+  "moneyhud.command.tier.2":           "[MoneyHUD] Stil auf Stufe 2 (Premium) gesetzt.",
+  "moneyhud.command.tier.3":           "[MoneyHUD] Stil auf Stufe 3 (Elite) gesetzt.",
+  "moneyhud.command.status":           "[MoneyHUD] Status: %s  |  Stil: %s",
+  "moneyhud.command.status.enabled":   "AKTIV",
+  "moneyhud.command.status.disabled":  "INAKTIV",
+  "moneyhud.command.status.tier.1":    "Stufe 1 (Einfach)",
+  "moneyhud.command.status.tier.2":    "Stufe 2 (Premium)",
+  "moneyhud.command.status.tier.3":    "Stufe 3 (Elite)"
+}

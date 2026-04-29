@@ -1,0 +1,26 @@
+/scoreboard objectives add money dummy
+/scoreboard players add @p money 100
+/moneyhud status
+/moneyhud tier 2
+/moneyhud tier 3
+/moneyhud toggle
+/scoreboard players add @p money 100
+/scoreboard objectives setdisplay sidebar money
+/scoreboard objectives remove money
+/scoreboard players add @p money 100
+/scoreboard objectives add money dummy
+/scoreboard players add @p money 100
+/moneyhud tier 3
+/scoreboard players add @p money 100
+/scoreboard objectives remove money
+/scoreboard players add @p money 100
+/scoreboard objectives add money dummy
+/scoreboard players add @p money 100
+/moneyhud tier 2
+/moneyhud tier 3
+/moneyhud tier 2
+/moneyhud tier 3
+/moneyhud tier 2
+/moneyhud tier 3
+/give @p minecraft:command_block
+/scoreboard players add @p money 100
