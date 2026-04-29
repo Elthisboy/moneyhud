@@ -3,7 +3,7 @@
 ## Project Identity
 - **Name:** MoneyHUD
 - **Mod ID:** `moneyhud`
-- **Version:** `${version}` (Resolved at build time)
+- **Version:** `1.0.3` (Resolved at build time)
 
 ## Technical Summary
 The **MoneyHUD** mod acts as a client-side economy overlay tailored for roleplay and custom maps. While its core rendering environment is set to the client, it registers server-side commands (`MoneyHudServerCommand`) to enable centralized control by server operators or command blocks. The mod utilizes Fabric's `ServerPlayNetworking` to broadcast `MoneyHudPayload` packets to targeted clients, dynamically instructing them to toggle the HUD visibility or adjust its visual tier based on server events.
@@ -27,5 +27,5 @@ The **MoneyHUD** mod acts as a client-side economy overlay tailored for roleplay
 *Note: This specific mod does not generate a JSON configuration file in the `config/` folder. All HUD states and tier transitions are controlled entirely dynamically via the registered in-game commands (`/moneyhud`) and network payloads.*
 
 ## Developer Info
-- **Author:** el_this_boy
+- **Author:** El_this_boy
 - **Platform:** Fabric 1.21.1
